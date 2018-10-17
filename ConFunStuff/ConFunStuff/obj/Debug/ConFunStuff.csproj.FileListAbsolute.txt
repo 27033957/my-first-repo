@@ -1,0 +1,12 @@
+\\edunet.nz\homefolders\stuhome\27033957\visual studio 2015\Projects\ConFunStuff\ConFunStuff\bin\Debug\ConFunStuff.exe.config
+\\edunet.nz\homefolders\stuhome\27033957\visual studio 2015\Projects\ConFunStuff\ConFunStuff\bin\Debug\ConFunStuff.exe
+\\edunet.nz\homefolders\stuhome\27033957\visual studio 2015\Projects\ConFunStuff\ConFunStuff\bin\Debug\ConFunStuff.pdb
+\\edunet.nz\homefolders\stuhome\27033957\visual studio 2015\Projects\ConFunStuff\ConFunStuff\obj\Debug\ConFunStuff.csprojResolveAssemblyReference.cache
+\\edunet.nz\homefolders\stuhome\27033957\visual studio 2015\Projects\ConFunStuff\ConFunStuff\obj\Debug\ConFunStuff.exe
+\\edunet.nz\homefolders\stuhome\27033957\visual studio 2015\Projects\ConFunStuff\ConFunStuff\obj\Debug\ConFunStuff.pdb
+H:\Visual Studio 2015\Projects\ConFunStuff\ConFunStuff\bin\Debug\ConFunStuff.exe.config
+H:\Visual Studio 2015\Projects\ConFunStuff\ConFunStuff\obj\Debug\ConFunStuff.exe
+H:\Visual Studio 2015\Projects\ConFunStuff\ConFunStuff\obj\Debug\ConFunStuff.pdb
+H:\Visual Studio 2015\Projects\ConFunStuff\ConFunStuff\bin\Debug\ConFunStuff.exe
+H:\Visual Studio 2015\Projects\ConFunStuff\ConFunStuff\bin\Debug\ConFunStuff.pdb
+H:\Visual Studio 2015\Projects\ConFunStuff\ConFunStuff\obj\Debug\ConFunStuff.csprojResolveAssemblyReference.cache
